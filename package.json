@@ -1,10 +1,23 @@
 {
-  "name": "devfest",
+  "name": "devfest-2018",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/SantiMA10/devfest.gdgasturias.com.git",
-  "author": "Santiago M.A. <santiagomartinagra@gmail.com>",
-  "license": "MIT",
+  "repository": "https://github.com/gdg-asturias/GDGEventTemplates.git",
+  "author": {
+    "name": "GDG Asturias"
+  },
+  "contributors": [
+    {
+      "name": "Aurora Barrero"
+    },
+    {
+      "name": "María Encinar"
+    },
+    {
+      "email": "santiagomartinagra@gmail.com",
+      "name": "Santiago Martín Agra"
+    }
+  ],
   "scripts": {
     "dev": "npx vuepress dev .",
     "build": "npx vuepress build ."
