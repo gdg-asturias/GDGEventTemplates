@@ -13,6 +13,12 @@
 
 En este repo están las web que hemos hecho en [GDG Asturias](https://www.meetup.com/es-ES/GDG-Asturias) para los diferentes eventos que hemos organizado desde 2018.
 
+# 🥳 Contributing
+
+Estaríamos encantados de aceptar "nuevas plantillas" o mejoras en las que tenemos mediante _pull request_.
+
+Si alguna os resulta de útil no dudéis en utilizarla, lo único que pedimos es que dejéis alguna mención a GDG Asturias en el diseño final ;).
+
 # 📅 Eventos
 
 | Evento                         | Fecha          | Web                             | Rama                                                                        | Framework     |
@@ -20,3 +26,7 @@ En este repo están las web que hemos hecho en [GDG Asturias](https://www.meetup
 | Women Techmakers Asturias 2018 | 14 de abril    | http://wtm.gdgasturias.com/2018 | [wtm-2018](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2018)         | Vue 2.5       |
 | DevFest Asturias 2018          | 1 de diciembre | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/SantiMA10/Event-Keeper/tree/devfest-2018) | VuePress 0.14 |
 | Women Techmakers Asturias 2019 | 6 de abril     | http://wtm.gdgasturias.com/     | [wtm-2019](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2019)         | NuxtJS 2.6    |
+
+# ⚖️ Licencia
+
+[MIT](./LICENSE)
