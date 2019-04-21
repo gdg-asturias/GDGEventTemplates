@@ -1,130 +1,139 @@
 [
   {
-    "hour": "9:00",
+    "hour": "8:45",
     "track1": {
-      "id": "acreditaciones",
-      "title": "Acreditaciones"
+      "id": "healthy-brunch",
+      "title": "Desayuno saludable y acreditaciones"
     }
   },
   {
-    "hour": "9:45",
+    "hour": "9:30",
     "track1": {
       "id": "bienvenida",
-      "title": "Inaguración"
+      "title": "Bienvenida"
     }
   },
   {
-    "hour": "10:15",
+    "hour": "09:50",
     "track1": {
-      "id": "keynote-ines-huertas-especialista-en-inteligencia-artificial",
-      "title": "Keynote: Inés Huertas especialista en inteligencia artificial",
-      "picture": "/static/img/speakers/ines.jpg"
+      "id": "keynote-nerea",
+      "title": "Keynote: Ordenando el caos inteligente",
+      "speaker": "nerea-luis",
+      "picture": "/img/speakers/nerea.jpeg",
+      "description": "La inteligencia artificial está de moda. Escuchamos noticias, leemos artículos, opinamos y \"predecimos\" el futuro; pero... ¿qué hay verdaderamente detrás de los algoritmos de inteligencia artificial? ¡Es hora de poner orden a todo este caos! Por cierto, estamos rodeados de escenarios caóticos ¿Has pensado cómo se podría resolver de forma eficiente la completitud de los pedidos de sólo un día en un almacén de Amazon?"
     }
   },
   {
-    "hour": "11:00",
+    "hour": "10:30",
     "track1": {
-      "id": "track-1-workshop-chat-rapido-con-ionic-3-y-firebase-sara-zapico-de-zapiens",
-      "title": "Workshop: Chat rápido con Ionic 3 y Firebase.",
-      "picture": "/static/img/speakers/sara.jpeg"
+      "id": "track-1-datawarehousing",
+      "title": "Datawarehousing para un mundo más resiliente",
+      "speaker": "carmen-alvarez",
+      "picture": "/img/speakers/carmen.jpg",
+      "description": "El datawarehouse integra todos los sistemas de misión crítica de la empresa: contratación, primas, reclamaciones al seguro y finanzas, entre otros. Es una pieza clave de \"decision intelligence\". Tiene más de 24.000 atributos en más de 720 tablas que integran datos de 100 sistemas diferentes. La charla contará la evolución en tecnologías de datawarehousing (bases de datos relacionales, ETLs, Cloud), prácticas para integrar datos y elevarlos a información mediante diferentes técnicas, como reporting."
     },
     "track2": {
-      "id": "track-2-workshop-visualizacion-avanzada-de-datos-con-r-julia-lastra-de-treelogic",
-      "title": "Workshop: Visualización avanzada de datos con R.",
-      "picture": "/static/img/speakers/julia.jpeg"      
+      "id": "track-2-mobile-backend",
+      "title": "Como pasé de mobile a backend",
+      "speaker": "selene-pinillos",
+      "picture": "/img/speakers/selene.jpg",
+      "description": "Se puede aprender qué herramientas y qué pasos he seguido yo para cambiarme de equipo y tecnología, por si se están planteando algo similar en su carrera profesional o que lo tomen como opción."
     }
   },
   {
-    "hour": "11:45",
+    "hour": "11:15",
     "track1": {
       "id": "descanso-cafe",
       "title": "Descanso para el café"
     }
   },
   {
-    "hour": "12:15",
-    "track1": {
-      "id": "track-1-talk-supercarga-tu-app-con-cloud-functions-de-firebase-paola-garcia-de-chefly",
-      "title": "Talk: Supercarga tu app con Cloud Functions de Firebase",
-      "picture": "/static/img/speakers/paola.jpg",
-      "description": "En esta charla práctica vamos a codear una Cloud Function desde 0, desplegarla con firebase-cli a Google Cloud Platform y ejecutarla con un evento que generarán nuestros usuarios de FriendlyChat, un chat en Android serveless disponible en este codelab de Firebase."
-    },
+    "hour": "11:45",
     "track2": {
-      "id": "track-2-talk-ultimos-avances-en-ingenieria-biomedica-beatriz-merino",
-      "title": "Talk: Bioingeniería fantástica y dónde encontrarla",
-      "picture": "/static/img/speakers/bea.png"
+      "id": "track-1-natalia-dominguez",
+      "title": "Las huellas digitales de la música",
+      "speaker": "natalia-dominguez",
+      "picture": "/img/speakers/natali-dominguez.png",
+      "description": "Hablaré principalmente de Shazam y de otros motores de reconocimiento musical como puede ser Sound Hound o Gracenote, la pionera de Sony, de la curva digital que genera una canción y las huellas digitales que pueden hacerla única para poder ser encontrada. Veremos también un pequeño ejemplo del uso de alguna de las API que proporcionan estas aplicaciones."
+    },
+    "track1": {
+      "id": "track-2-maria-hernandez",
+      "title": "Creación de apps de realidad aumentada para Hololens con Visual Studio y UrhoSharp",
+      "speaker": "maria-hernandez",
+      "picture": "/img/speakers/maria.jpeg",
+      "description": "En esta sesión haremos una introducción de creación de aplicaciones de realidad aumentada mediante el uso de la librería UrhoSharp de Xamarin utilizando tecnologías .Net. Y veremos lo fácil que es poder desplegarlas y utilizarlas en las gafas de realidad mixta Hololens de Microsoft."
     }
   },
   {
-    "hour": "13:00",
+    "hour": "12:30",
     "track1": {
-      "id": "track-1-talk-introduccion-a-aurelia-js-la-hermana-de-angularjs-azahara-fernandez-de-afaya",
-      "title": "Talk: Introducción a Aurelia JS, la hermana de AngularJS",
-      "picture": "/static/img/speakers/azahara.jpg",
-      "description": "Aurelia es un framework Javascript que permite desarrollar aplicaciones para móvil y web. En este charla hablaremos de sus características, y similitudes/diferencias con el famoso Angular. Para ello se utilizará un ejemplo práctico programado en ambos frameworks, de forma que podamos ir comparándolos a través del código generado."
+      "id": "track-1-clara-luis",
+      "title": "Quédate con alguien que te mire como Wall-e",
+      "speaker": "clara-luis",
+      "picture": "/img/speakers/clara.jpeg",
+      "description": "Mi intención es explicar conceptos básicos de Visión Artificial que viene bien conocer, aunque éste no sea el ámbito en el que trabajas. La charla permite entender los conceptos para ser capaces de aplicarlos a nuestro día a día: desde saber generar paletas de colores, a entender el \"modo belleza\" de nuestro móvil, incluso entender cómo funcionan las redes neuronales convolucionales (CNNs). Todos los ejemplos vendrán acompañados de fragmentos de código en OpenCV."
     },
     "track2": {
-      "id": "track-2-talk-tecnologia-de-formula-1-desde-asturias-tamara-fernandez-de-ingeniacity",
-      "title": "Talk: Tecnología de Fórmula 1 desde Asturias",
-      "picture": "/static/img/speakers/tamara.jpg"
+      "id": "track2-iot",
+      "title": "Home Automation via Google Assistant & Basic demo of visual programming in Node-RED",
+      "description": "We'll talk about our experience developing IoT projects. We'll cover Home automation Initial idea and Functionalities, and make a brief Introduction to visual programming using Node-RED. In the talk we'll go over both hardware and software details about the use of Raspberry Pi and voice control featuring via Google Assistant.",
+      "speakers": ["nour-moussa", "komal-khan"],
+      "pictures": ["/img/speakers/nour.jpeg", "/img/speakers/komal.jpeg"]
+    }
+  },
+  {
+    "hour": "13:15",
+    "track1": {
+      "id": "premio",
+      "title": "Premio WTM 2019"
     }
   },
   {
     "hour": "13:45",
     "track1": {
-      "id": "mini-talk-proyecto-tecnologico-alumnas-ies-jeronimo-gonzalez",
-      "title": "Mini Talk: Proyecto tecnológico alumnas IES Jerónimo González",
-      "picture": "/static/img/speakers/ies.jpg"      
+      "id": "foto",
+      "title": "Foto de familia"
     }
   },
   {
-    "hour": "14:15",
+    "hour": "14:00",
     "track1": {
       "id": "comida",
       "title": "Comida"
     }
   },
   {
-    "hour": "15:45",
-    "track1": {
-      "id": "track-1-talk-may-the-robots-be-with-your-business-susana-gonzalez-de-capgemini",
-      "title": "Talk: May the Robots be with your Business",
-      "picture": "/static/img/speakers/susana.jpg",
-      "description": "El uso de los robots de software está impulsando la transformación digital de las empresas como pieza clave de la revolución Business 4.0 que estamos viviendo. En esta charla hablaremos sobre RPA (Robotics Process Automation),  sus beneficios, su integración en las empresas y su futuro. Además veremos cómo construir, ejecutar y monitorizar  un proceso de automatización robotizado."
-    },
+    "hour": "15:30",
     "track2": {
-      "id": "track-2-talk-web-component-templates-rendering-efficiently-polymer-gloria-bueno-google-expert",
-      "title": "Talk Web Component templates: Rendering efficiently (Polymer)",
-      "picture": "/static/img/speakers/gloria.jpg"
-    }
-  },
-  {
-    "hour": "16:30",
-    "track1": {
-      "id": "track-1-taller-de-bots-irene-pullido-de-alysis",
-      "title": "Workshop: Aprende a crear un Bot integrado en un sistema multicanal con Dialog Flow.",
-      "picture": "/static/img/speakers/irene.jpeg"
+      "id": "track-1-tdd",
+      "title": "TDD y buenas prácticas en testing",
+      "speaker": "cristina-berreiro",
+      "picture": "/img/speakers/cristina.jpeg",
+      "description": "Durante la charla se contextualizará la necesidad de hacer testing dentro de un proyecto de desarrollo de software, para luego hacer una breve introducción a TDD y terminar dando unas nociones de cómo escribir buenos tests unitarios."
     },
-    "track2": {
-      "id": "track-2-taller-sobre-drones-drone4students",
-      "title": "Workshop: Construye tu propio Dron",
-      "picture": "/static/img/speakers/alisson.jpg"  
+    "track1": {
+      "id": "track-2-maria-gutierrez",
+      "title": "Nuevas tecnologías en seguridad",
+      "speaker": "maria-gutierrez",
+      "picture": "/img/speakers/maria-gutierrez.jpg",
+      "description": "La presentación veremos qué tecnologías se han ido incorporando al mundo de la seguridad para hacer frente a las nuevas amenazas y retos en ciberdefensa."
     }
   },
   {
-    "hour": "17:15",
+    "hour": "16:15",
     "track1": {
-      "id": "keynote-svg-attacks-carmen-ansio-de-desigual",
-      "title": "Keynote: SVG attacks!",
-      "picture": "/static/img/speakers/carmen.jpg",
-      "description": "El mundo web ha sido invadido por gráficos vectoriales, así que es el momento idóneo para aprender más sobre ellos.<br>En esta charla diseccionaremos su ADN para ver de que están compuestos, las diferentes formas de incluirlos en nuestro proyecto dependiendo de nuestras necesidades y como exprimirlos para optimizar su código.<br>Veremos como trabajar con iconos, y el porqué debemos permitir que las webfonts sean abducidas.<br>Para finalizar, os animaré a crear transiciones con las que facilitaremos la vida a nuestros usuarios."
+      "id": "track1-natalia-gonzalez",
+      "title": "¡Menudo viaje! Cómo vivir la transformación digital de IKEA desde su core",
+      "speaker": "natalia-gonzalez",
+      "picture": "/img/speakers/natalia.jpeg",
+      "description": "En esta charla haré un repaso por la transformación digital que está haciendo IKEA (donde colaboro desde hace 6 años), desde un plataforma monolítica a una estructura de microservicios. También contaré cómo nos organizamos o qué tecnologías usamos."
     }
   },
   {
-    "hour": "18:00",
+    "hour": "17:00",
     "track1": {
-      "id": "cierre",
-      "title": "Cierre y networking"
+      "id": "keynote-cierre",
+      "title": "Cierre y Entrega Premios Retos"
     }
   }
 ]

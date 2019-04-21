@@ -1,43 +1,42 @@
-
 [
-    {
-      "name": "Azahara",
-      "surname": "Fernández",
-      "subtitle": "Voluntaria",
-      "picture": "/static/img/organizers/azahara.jpg",
-      "social": {
-        "twitter": "https://twitter.com/azahara_fergui",
-        "linkedin": "https://www.linkedin.com/in/azahara-fernandez-guizan-41713033/"
-        }
-    },
-    {
-      "name": "Juan Manuel",
-      "surname": "Rodriguez",
-      "subtitle": "Voluntario",
-      "picture": "/static/img/organizers/juanma.jpg",
-      "social": {
-        "twitter": "https://twitter.com/juan_manuel_rp",
-        "linkedin": "https://www.linkedin.com/in/juan-manuel-rodríguez-perez-25512733/"
-        }
-    },
-    {
-      "name": "Juan",
-      "surname": "Carlos",
-      "subtitle": "Voluntario",
-      "picture": "/static/img/organizers/juancarlos.png",
-      "social": {
-        "twitter": "https://twitter.com/CoworkingAcademy",
-        "facebook": "https://www.facebook.com/CoworkingAcademy/"
-      }
-    },
-    {
-      "name": "Roberto",
-      "surname": "Bayón",
-      "subtitle": "Voluntario",
-      "picture": "/static/img/organizers/rober.jpg",
-      "social": {
-        "twitter": "https://twitter.com/roberto_bayon",
-        "linkedin": "https://www.linkedin.com/in/robertolbayon/"
-        }
+  {
+    "name": "Juan Carlos",
+    "surname": "Rodríguez",
+    "subtitle": "Voluntario",
+    "picture": "/img/organizers/juancarlos.png",
+    "social": {
+      "twitter": "https://twitter.com/CoworkingAcademy",
+      "facebook": "https://www.facebook.com/CoworkingAcademy/"
     }
+  },
+  {
+    "name": "Roberto",
+    "surname": "Bayón",
+    "subtitle": "Voluntario",
+    "picture": "/img/organizers/rober.jpg",
+    "social": {
+      "twitter": "https://twitter.com/roberto_bayon",
+      "linkedin": "https://www.linkedin.com/in/robertolbayon/"
+    }
+  },
+  {
+    "name": "Begoña",
+    "surname": "Menéndez",
+    "subtitle": "Voluntaria",
+    "picture": "/img/organizers/bego.jpg",
+    "social": {
+      "twitter": "https://twitter.com/BegoMenBarreiro",
+      "linkedin": "https://www.linkedin.com/in/begonamenendezbarreiro/"
+    }
+  },
+  {
+    "name": "Javier",
+    "surname": "Labrada",
+    "subtitle": "Voluntario",
+    "picture": "/img/organizers/javi.jpg",
+    "social": {
+      "twitter": "https://twitter.com/javierlbrd",
+      "linkedin": "https://www.linkedin.com/in/javier-labrada-b51a62142/"
+    }
+  }
 ]

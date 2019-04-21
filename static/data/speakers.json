@@ -1,206 +1,175 @@
 [
   {
-    "id": "azahara-fernandez",
-    "name": "Azahara",
-    "surname": "Fernández",
-    "picture": "/static/img/speakers/azahara.jpg",
-    "work": "Afaya",
-    "about": "Soy desarrolladora de software reconvertida desde 2015 (MCSA Microsoft Certified Web Applications Developer), antes Doctora en Inmunología.</br>Me encanta compartir conocimientos y estar completamente actualizada. Creo en el valor de la comunidad, por eso siempre que puedo colaboro donde se me necesite y formo parte de Afaya en mi tiempo libre donde trato de organizar diversas actividades para niñas.",
+    "id": "natalia-gonzalez",
+    "name": "Natalia",
+    "surname": "Gonzalez",
+    "picture": "/img/speakers/natalia.jpeg",
+    "work": "IKEA",
+    "about": "Llevo más de 18 años en este mundo. He trabajado como experta en WebCenter Sites en Oracle y Fatwire, y desde hace 5 años colaboro con Ikea (en Suecia!).  Actualmente soy Solution Architect en la parte web.",
     "social": {
-      "twitter": "https://twitter.com/azahara_fergui",
-      "linkedin": "https://www.linkedin.com/in/azahara-fernandez-guizan-41713033/"
+      "twitter": "https://twitter.com/nagosa",
+      "linkedin": "https://www.linkedin.com/in/nataliagonzalez/"
     },
     "speaking_in": {
-      "title": "Introducción a Aurelia JS, la hermana de AngularJS",
-      "href": "#track-1-talk-introduccion-a-aurelia-js-la-hermana-de-angularjs-azahara-fernandez-de-afaya"
+      "title": "¡Menudo viaje! Cómo vivir la transformación digital de IKEA desde su core.",
+      "href": "#track1-natalia-gonzalez"
     }
   },
   {
-    "id": "paola-garcia",
-    "name": "Paola",
-    "surname": "García",
-    "picture": "/static/img/speakers/paola.jpg",
-    "work": "Chefly",
-    "about": "Paola Garcia es Ingeniera Telemática por la Universidad Carlos III Madrid. Después de trabajar varios años en multinacionales y pasar una experiencia Internacional como Freelance en Irlanda en el mundo TIC, Paola ha montado su propia Startup Tecnológica Chefly y trabaja actualmente con sede en Campus Madrid de Google.",
+    "id": "clara-luis",
+    "name": "Clara",
+    "surname": "Luis",
+    "work": "T3chFest",
+    "picture": "/img/speakers/clara.jpeg",
+    "about": "Ingeniera Audiovisual en proceso. Soy muy friki de temas como Visión Artificial y Generación Musical (en general, todo lo que sea aplicar Machine Learning a Imagen, Sonido o Vídeo). Organizo T3chFest. Probablemente hayas visto al erizo T3chfy; lo diseñé yo :D",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/paolagarcia/",
-      "twitter": "https://twitter.com/ggarciapaola"
+      "twitter": "https://twitter.com/vocalyre",
+      "linkedin": "https://www.linkedin.com/in/claraluis/"
     },
     "speaking_in": {
-      "title": "Supercarga tu app con Cloud Functions de Firebase",
-      "href": "#track-1-talk-supercarga-tu-app-con-cloud-functions-de-firebase-paola-garcia-de-chefly"
+      "title": "Quédate con alguien que te mire como Wall-e",
+      "href": "#track-1-clara-luis"
     }
   },
   {
-    "id": "carmen-ansio",
-    "name": "Carmen",
-    "surname": "Ansio",
-    "picture": "/static/img/speakers/carmen.jpg",
-    "work": "UX/UI & front-end designer. Amante del CSS y los SVG\"s.",
-    "about": "Co-host en @wecodesign, podcast quincenal sobre desarrollo front-end, diseño web y UX.<br>Es integrante de AdaJS (@adabcnjs), comunidad de mujeres que tiene como objetivo promover y apoyar el crecimiento del sector femenino en el ámbito (IT) a través del desarrollo web.",
+    "id": "maria-hernandez",
+    "name": "María",
+    "surname": "Hernández",
+    "work": "Mecalux Software Solutions",
+    "picture": "/img/speakers/maria.jpeg",
+    "about": "Estoy terminando el Máster en Ingeniería Web (rama de Investigación) por la Universidad de Oviedo, actualmente trabajo en el departamento de I+D+i de Mecalux Software Solutions. En 2018 obtuve el I Premio CITIPA Ada Byron a la Excelencia Académica Femenina. Formo parte de FemDevs (@FemDevs), una comunidad para apoyar y visibilizar a las mujeres desarrolladoras de videojuegos. Mis inquietudes tecnológicas apuntan a la rama de investigación de la informática aplicada al ámbito de la salud, objeto de mi Trabajo Fin de Máster.",
     "social": {
-      "twitter": "https://twitter.com/carmenansio",
-      "linkedin": "https://www.linkedin.com/in/carmenansio/"
+      "linkedin": "https://es.linkedin.com/in/maría-hernández-martínez-95a58615b",
+      "twitter": "https://twitter.com/hibarikky"
     },
     "speaking_in": {
-      "title": "SVG attacks!",
-      "href": "#keynote-svg-attacks-carmen-ansio-de-desigual"
+      "title": "Creación de apps de realidad aumentada para Hololens con Visual Studio y UrhoSharp",
+      "href": "#track-2-maria-hernandez"
     }
   },
   {
-    "id": "ines-huertas",
-    "name": "Inés",
-    "surname": "Huertas",
-    "picture": "/static/img/speakers/ines.jpg",
-    "work": "Research",
-    "about": "Data Scientist y co-fundadora de Datatons, lidera diferentes proyectos de analítica sobre plataformas Big Data, una data dreamer en busca de historias!. Actualmente gestiona el grupo de Data Science Madrid y participa en la organización el grupo de Rladies Madrid.",
+    "id": "nerea-luis",
+    "name": "Nerea",
+    "surname": "Luis",
+    "work": "T3chFest",
+    "picture": "/img/speakers/nerea.jpeg",
+    "about": "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid. Nominada TOP100 mujeres líderes 2018. Women Techmaker Scholar 2016 por Google. Reconocida por la fundación COTEC como experta en Talento, Tecnología y Género. Técnico de asesoramiento científico en Ciencia en el Parlamento.",
     "social": {
-      "twitter": "https://twitter.com/quierodata",
-      "linkedin": "https://es.linkedin.com/in/ineshuertas"
+      "linkedin": "https://es.linkedin.com/in/nerealuis",
+      "twitter": "https://twitter.com/sailormerqury"
     },
     "speaking_in": {
-      "title": "Keynote sobre inteligencia artificial",
-      "href": "#keynote-ines-huertas-especialista-en-inteligencia-artificial"
+      "title": "Ordenando el caos inteligente",
+      "href": "#keynote-nerea"
     }
   },
   {
-    "id": "tamara-fernandez",    
-    "name": "Tamara",
-    "surname": "Fernández",
-    "work": "Ingeniacity",    
-    "picture": "/static/img/speakers/tamara.jpg",
-    "about": "Tamara es Ingeniera especializada en mecánica y co-fundadora desde 2015 de Ingeniacity, un equipo multidiciplinar de ingenerios que buscan soluciones innovadoras a los retos que les plantean clientes de diferentes sectores como el náutico, industrial o energético. Previamente fue la directora de Motostudent de la EPI Gijón y coordinó proyectos internacionales en una empresa de biogás. Curiosa, apasionada de la innovación y comprometida con el emprendimiento en Asturias.",
+    "id": "nour-moussa",
+    "name": "Nour",
+    "surname": "Moussa",
+    "work": "Cátedra Milla del Conociemiento Gijón Smart Cities",
+    "picture": "/img/speakers/nour.jpeg",
+    "about": "Nour Moussa is currently a master’s degree student in the University of Oviedo, majoring in Electrical Power Systems, in which she obtained her bachelors degree from the Arab Academy for Science and Technology, Alexandria, Egypt in 2017. In the meantime she is working on a project for EDP to implement a study of a shared self-consumption system applied to neighbourhood communities in urban environments. Her interests are in the field of renewable energies and smart grids.",
     "social": {
-      "twitter": "https://twitter.com/tamariacity",
-      "linkedin": "https://www.linkedin.com/in/tamara-fern%C3%A1ndez-aaa47783/"
+      "linkedin": "http://linkedin.com/in/nour-moussa-b7569565",
+      "twitter": "https://twitter.com/GijonSmartcity"
     },
     "speaking_in": {
-      "title": "Tecnología de Fórmula 1 desde Asturias",
-      "href": "#track-2-talk-tecnologia-de-formula-1-desde-asturias-tamara-fernandez-de-ingeniacity"
+      "title": "Home Automation via Google Assistant & Basic demo of visual programming in Node-RED",
+      "href": "#track2-iot"
     }
   },
   {
-    "id": "bea-merino",
-    "name": "Bea",
-    "surname": "Merino",
-    "picture": "/static/img/speakers/bea.png",
-    "about": "Soy Ingeniera Biomédica por la Universidad Politécnica de Madrid. Fanática de la innovación en salud, envejecimiento activo y ciudades inteligentes. Actualmente trabajo en el grupo de investigación Life Supporting Techonologies por las mañanas y planeo la rebelión de las máquinas fantásticas por las noches. Asturias lover.",
+    "id": "komal-khan",
+    "name": "Komal",
+    "surname": "Khan",
+    "work": "Cátedra Milla del Conociemiento Gijón Smart Cities",
+    "picture": "/img/speakers/komal.jpeg",
+    "about": "Komal Khan, received her bachelor’s degree in Electrical Engineering with distinction from Air University Islamabad, Pakistan. She was competitively selected under EU Erasmus Mundus Joint Master Degree Program in 2017. In the pursuit of her Master degree in Sustainable Transportation and Electrical Power Systems, currently she is working as an intern in Gijón Smart Cities Demo Lab, on a project of EDP. Her area of scope is the useful integration of electrical engineering with Internet of things (IoT) which is a futuristic field and can do wonders.",
     "social": {
-      "twitter": "https://twitter.com/BeaMerino28",
-      "linkedin": "https://www.linkedin.com/in/beatriz-merino-118b3a73/"
+      "linkedin": "https://www.linkedin.com/in/komalkhan31/",
+      "twitter": "https://twitter.com/GijonSmartcity"
     },
     "speaking_in": {
-      "title": "Bioingeniería fantástica y dónde encontrarla",
-      "href": "#track-2-talk-ultimos-avances-en-ingenieria-biomedica-beatriz-merino"
+      "title": "Home Automation via Google Assistant & Basic demo of visual programming in Node-RED",
+      "href": "#track2-iot"
     }
   },
   {
-    "id": "gloria-bueno",    
-    "name": "Gloria",
-    "surname": "Bueno",
-    "work": "Google Expert",
-    "picture": "/static/img/speakers/gloria.jpg",
-    "about": "Desarrolladora web en @MashMeTV, centrada en crear mejores experiencias móviles y de escritorio.</br>Autodidacta compulsiva, siempre buscando los límites para sacar el máximo provecho de la tecnología, actualmente Google Developer Expert en Polymer en busca de mejores flujos de trabajo Front-end.",
+    "id": "natalia-dominguez",
+    "name": "Natalia",
+    "surname": "Domínguez",
+    "work": "Ricoh",
+    "picture": "/img/speakers/natali-dominguez.png",
+    "about": "Arquitecta de software en el Digital Competence Center de RICOH en Asturias. Profesional con más de 15 años de experiencia tanto en el desarrollo de software como en la formación en materias relacionadas con el desarrollo web. Apagafuegos y en constante aprendizaje. Me gusta la repostería.",
     "social": {
-      "twitter": "https://twitter.com/globitss",
-      "linkedin": "https://www.linkedin.com/in/globits/"
+      "linkedin": "http://linkedin.com/in/natalia-domínguez-domínguez-4b917b12a"
     },
     "speaking_in": {
-      "title": "Web Component templates: Rendering efficiently (Polymer)",
-      "href": "#track-2-talk-web-component-templates-rendering-efficiently-polymer-gloria-bueno-google-expert"
+      "title": "Las huellas digitales de la música",
+      "href": "#track-1-natalia-dominguez"
     }
   },
   {
-    "id": "susana-gonzalez",
-    "name": "Susana",
-    "surname": "González",
+    "id": "selene-pinillos",
+    "name": "Selene",
+    "surname": "Pinillos",
+    "work": "Cabify",
+    "picture": "/img/speakers/selene.jpg",
+    "about": "Después de unos cuantos años como desarrolladora de mobile en varias empresas, en 2015 me uno al equipo de Cabify como Android developer. A finales de 2018 doy el salto de mobile a backend en Go. Me gusta la cocina, el Crossfit y los gatos.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/selene-pinillos-b790a53a/",
+      "twitter": "https://twitter.com/selenepinillos"
+    },
+    "speaking_in": {
+      "title": "Como pasé de mobile a backend",
+      "href": "#track-2-mobile-backend"
+    }
+  },
+  {
+    "id": "maria-gutierrez",
+    "name": "María",
+    "surname": "Gutiérrez",
     "work": "Capgemini",
-    "picture": "/static/img/speakers/susana.jpg",
-    "about": "Ingeniera técnica informática por la Universidad de Oviedo con más de diez años de experiencia como ingeniera de software.  Ha trabajado en distintas empresas y clientes y para sectores muy variados que van desde servicios financieros y seguros hasta sector energético nacional.</br>Actualmente en Capgemini Asturias ha comenzado su nueva aventura con tecnologías RPA dando un giro a su carrera como profesional Java y centrándose en el desarrollo de robots de software, un nuevo y prometedor sector.",
+    "picture": "/img/speakers/maria-gutierrez.jpg",
+    "about": "Licenciada en Física Fundamental, lleva más de 15 años dedicada a las soluciones de Seguridad, actualmente es la responsable de Ciberseguridad en Capgemini donde tiene el reto de incorporar inteligencia artificial, robotización  y procesos agile  en los servicios de Cyber.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/susanagonzalezcacheiro/",
-      "twitter": "https://twitter.com/capgemini_es?lang=es"
+      "twitter": "https://twitter.com/Capgemini_ES"
     },
     "speaking_in": {
-      "title": "May the Robots be with your Business",
-      "href": "#track-1-talk-may-the-robots-be-with-your-business-susana-gonzalez-de-capgemini"
+      "title": "Nuevas tecnologías en seguridad",
+      "href": "#track-2-maria-gutierrez"
     }
   },
   {
-    "id": "alisson-caiza",
-    "name": "Alisson",
-    "surname": "Caiza",
-    "work": "Drone4students",
-    "picture": "/static/img/speakers/alisson.jpg",
-    "about": "Estudiante de Ingenieria Electronica Industrial y Automática en la Universidad de Oviedo y miembro de Drone4students, asociación que se encarga tanto de divulgar información relacionada con los drones, como de dar talleres e investigar. Combina sus estudios con tareas de voluntariado como impartir clases de apoyo a jóvenes que lo necesitan.",
+    "id": "carmen-alvarez",
+    "name": "Carmen",
+    "surname": "Álvarez",
+    "work": "Swiss Re",
+    "picture": "/img/speakers/carmen.jpg",
+    "about": "Trabajo en Swiss Re, la segunda reaseguradora más grande del mundo, en el equipo de Datawarehouse. Nos dedicamos a integrar información de los sistemas de misión crítica de la empresa: contratación, primas, reclamaciones al seguro y finanzas, entre otros. Anteriormente trabajé en el CERN, haciendo el software que soporta tanto el servidor de documentos del CERN como cientos de librerías online del mundo. También haciendo data science para recursos humanos.",
     "speaking_in": {
-      "title": "Taller sobre drones.",
-      "href": "#track-2-taller-sobre-drones-drone4students"
+      "title": "Datawarehousing para un mundo más resiliente",
+      "href": "#track-1-datawarehousing"
     },
     "social": {
-      "twitter": "https://twitter.com/drone4students?lang=es",
-      "linkedin": "https://www.linkedin.com/company/11448701/"
+      "linkedin": "https://www.linkedin.com/in/carmenalvarezperez/"
     }
   },
   {
-    "id": "julia-Lastra",
-    "name": "Julia",
-    "surname": "Lastra",
-    "work": "Treelogic",
-    "picture": "/static/img/speakers/julia.jpeg",
-    "about": "Soy licenciada en matemáticas por la Universidad de Oviedo y llevo más de 7 años trabajando en proyectos de análisis de datos de distinta índole. Siempre he combinado mi participación en proyectos de investigación europeos con desarrollos a medida para clientes, primero en un centro de investigación y ahora en el área de I+D+i de Treelogic. Mi especialidad consiste en encontrar soluciones basadas en aprendizaje automático a problemas del mundo real. Algunos ejemplos de retos a los que me he enfrentado como Data Scientist son: el desarrollo de sistemas predictivos de ventas, el modelado de efectos en cascada en situaciones de emergencia o la clasificación automática de los usos domésticos del agua.",
+    "id": "cristina-berreiro",
+    "name": "Cristina",
+    "surname": "Barreiro",
+    "work": "Situm Indoor Positioning",
+    "picture": "/img/speakers/cristina.jpeg",
+    "about": "Ingeniería Informática y desarrolladora de aplicaciones móviles. He trabajado en consultoría desarrollando aplicaciones móviles para el grupo Inditex, y actualmente desarrollo un SDK móvil y gestiono proyectos en Situm Indoor Positioning. Además, soy co-organizadora del GDG Santiago.",
     "speaking_in": {
-      "title": "Workshop: Visualización avanzada de datos con R.",
-      "href": "#track-2-workshop-visualizacion-avanzada-de-datos-con-r-julia-lastra-de-treelogic"
+      "title": "TDD y buenas prácticas en testing",
+      "href": "#track-1-tdd"
     },
     "social": {
-      "linkedin": "https://www.linkedin.com/in/julialastra/",
-      "twitter": "https://twitter.com/treelogic?lang=es"
-    }
-  },
-  {
-    "id": "sara-zapico",
-    "name": "Sara",
-    "surname": "Zapico",
-    "work": "Zapiens",
-    "picture": "/static/img/speakers/sara.jpeg",
-    "about": "Máster en Ingeniería Web por la Universidad de Oviedo. Siempre estoy tratando de aprender cosas nuevas y retarme a mí misma.<br>Por ello, he trabajado en varias empresas, tocando diferentes tecnologías y áreas, que me han ido formando como profesional en el desarrollo Web. Ahora mismo estoy disfrutando de la aventura de trabajar en la Startup asturiana Zapiens como parte del equipo de desarrollo del Bot de la aplicación.",
-    "speaking_in": {
-      "title": "Workshop: Chat rápido con Ionic 3 y Firebase.",
-      "href": "#track-1-workshop-chat-rapido-con-ionic-3-y-firebase-sara-zapico-de-zapiens"
-    },
-    "social": {
-      "linkedin":"https://www.linkedin.com/in/sara-zapico-fern%C3%A1ndez-21537b46/",
-      "twitter": "https://twitter.com/zapienstribe?lang=es"
-    }
-  },
-  {
-    "id": "equipo-ies-jeronimo-gonzalez",
-    "name": "Equipo",
-    "surname": "IES Jerónimo González",
-    "picture": "/static/img/speakers/ies.jpg",
-    "about": "Ainara Torre, Alba Castaño, Alba Ruíz y Chabely Jeréz comenzaron el curso pasado en la materia de Robótica. Coordinadas por Rosana Álvarez, trabajron en la búsqueda de soluciones innovadoras y creativas para problemas que aún no tenían solución o para mejorar soluciones existentes. El curso pasado junto con sus compañeros buscaron una solución viable y funcional para la gestión de los contenedores de reciclaje.<br>Ahora en 1º de Bachillerato desde TIC trabajan en diferentes proyectos como automatismos que permitan quelas persianas suban o bajen cuando llueve, o elaborando rutas geolocalizadas con explicaciones en en vídeos, imágenes y audio.",
-    "speaking_in": {
-      "title": "Proyecto tecnológico alumnas IES Jerónimo González.",
-      "href": "#mini-talk-proyecto-tecnologico-alumnas-ies-jeronimo-gonzalez"
-    },
-    "social": {
-    }
-  },
-  {
-    "id": "irene-pulido",
-    "name": "Irene",
-    "surname": "Pulido",
-    "work": "Alisys Quality Assurance Technician",    
-    "picture": "/static/img/speakers/irene.jpeg",
-    "about": "Terminando su grado en Ingeniería en Tecnologías y Servicios de Telecomunicaciones en la Universidad de Oviedo, actualmente trabaja como especialista técnica en el área de QA en Alisys. A lo largo de su trayectoria como ingeniera, se ha interesado por el ámbito de la Inteligencia Artificial, los bots y la gestión de plataformas omnicanal.<br>Está especializándose en la detección de errores y bugs así como participando de forma activa en el análisis de las necesidades del cliente asegurando la calidad de los productos antes de su puesta en producción. Participa en diversos proyectos de integración multiplataforma, bots especializados en incidencias así como gestión de comunicaciones omnicanal.",
-    "speaking_in": {
-      "title": "Aprende a crear un Bot integrado en un sistema multicanal con Dialog Flow.",
-      "href": "#track-1-taller-de-bots-irene-pullido-de-alysis"
-    },
-    "social": {
-      "linkedin": "https://www.linkedin.com/company/alisys/?originalSubdomain=es",
-      "twitter": "https://twitter.com/alisys"
+      "linkedin": "https://www.linkedin.com/in/crisbarreiro/",
+      "twitter": "https://twitter.com/crisbarreiro_"
     }
   }
 ]
