@@ -2,11 +2,20 @@
   "name": "wtm-2019",
   "version": "1.0.0",
   "description": "Women Techmakers es una iniciativa global de Google que organizamos localmente desde el GDG Asturias. Queremos celebrar el talento técnico femenino y disfrutar en comunidad de una jornada sobre tecnología y desarrollo de software.",
-  "author": "AsturTech",
+  "repository": "https://github.com/gdg-asturias/GDGEventTemplates.git",
+  "author": {
+    "name": "GDG Asturias"
+  },
   "contributors": [
     {
-      "name": "Santiago Martín (@SantiMA10)",
-      "url": "https://santiagomartin.dev"
+      "name": "Aurora Barrero"
+    },
+    {
+      "name": "María Encinar"
+    },
+    {
+      "email": "santiagomartinagra@gmail.com",
+      "name": "Santiago Martín Agra"
     }
   ],
   "private": true,
