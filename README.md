@@ -21,7 +21,7 @@ If you like them and it makes your GDG live easier, just use them. One easy requ
 
 # 📅 Events
 
-| Event                         | Date          | Web                             | Rama                                                                        | Framework     |
+| Event                         | Date          | Web                             | Branch                                                                        | Framework     |
 | ------------------------------ | -------------- | ------------------------------- | --------------------------------------------------------------------------- | ------------- |
 | Women Techmakers Asturias 2018 | 14 de abril    | http://wtm.gdgasturias.com/2018 | [wtm-2018](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2018)         | Vue 2.5       |
 | DevFest Asturias 2018          | 1 de diciembre | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/SantiMA10/Event-Keeper/tree/devfest-2018) | VuePress 0.14 |
