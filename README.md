@@ -1,23 +1,22 @@
-# 🎟 wtm.gdgasturias.com
+<p align="center">
+  <img src="./.github/logos/gdg-asturias.png"  width="400">
+</p>
+<p align="center">
+  <a href="https://meetup.com/GDG-Asturias"><img src="https://img.shields.io/badge/meetup-link-red.svg"/></a>
+  <a href="https://gdgasturias.com"><img src="https://img.shields.io/badge/web-link-green.svg"/></a>
+  <a href="https://twitter.com/gdgasturias"><img src="https://img.shields.io/badge/twitter-link-9cf.svg"/></a>
+  <a href="https://facebook.com/gdgasturias"><img src="https://img.shields.io/badge/facebook-link-blue.svg"/></a>
+  <a href="https://instagram.com/gdgasturias"><img src="https://img.shields.io/badge/instagram-link-brown.svg"/></a>
+</p>
 
-Web utilizada para el WTM Asturias 2018.
+# 🎟 Event keeper
 
-[Live](http://wtm.gdgasturias.com/2018)
+En este repo están las web que hemos hecho en [GDG Asturias](https://www.meetup.com/es-ES/GDG-Asturias) para los diferentes eventos que hemos organizado desde 2018.
 
-## 🏗 Build Setup
+# 📅 Eventos
 
-```bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+| Evento                         | Fecha          | Web                             | Rama                                                                        | Framework     |
+| ------------------------------ | -------------- | ------------------------------- | --------------------------------------------------------------------------- | ------------- |
+| Women Techmakers Asturias 2018 | 14 de abril    | http://wtm.gdgasturias.com/2018 | [wtm-2018](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2018)         | Vue 2.5       |
+| DevFest Asturias 2018          | 1 de diciembre | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/SantiMA10/Event-Keeper/tree/devfest-2018) | VuePress 0.14 |
+| Women Techmakers Asturias 2019 | 6 de abril     | http://wtm.gdgasturias.com/     | [wtm-2019](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2019)         | NuxtJS 2.6    |
