@@ -23,10 +23,10 @@ If you like them and it makes your GDG live easier, just use them. One easy requ
 
 | Event                         | Date          | Web                             | Branch                                                                        | Framework     |
 | ------------------------------ | -------------- | ------------------------------- | --------------------------------------------------------------------------- | ------------- |
-| Women Techmakers Asturias 2018 | 14 de abril    | http://wtm.gdgasturias.com/2018 | [wtm-2018](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2018)         | Vue 2.5       |
-| DevFest Asturias 2018          | 1 de diciembre | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/SantiMA10/Event-Keeper/tree/devfest-2018) | VuePress 0.14 |
-| Women Techmakers Asturias 2019 | 6 de abril     | http://wtm.gdgasturias.com/     | [wtm-2019](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2019)         | NuxtJS 2.6    |
+| Women Techmakers Asturias 2018 | 14 April 2018    | http://wtm.gdgasturias.com/2018 | [wtm-2018](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2018)         | Vue 2.5       |
+| DevFest Asturias 2018          | 1 December 2018 | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/SantiMA10/Event-Keeper/tree/devfest-2018) | VuePress 0.14 |
+| Women Techmakers Asturias 2019 | 6 April 2019     | http://wtm.gdgasturias.com/     | [wtm-2019](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2019)         | NuxtJS 2.6    |
 
 # ⚖️ Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
