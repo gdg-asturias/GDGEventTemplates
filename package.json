@@ -1,8 +1,23 @@
 {
-  "name": "wtm.gdgasturias.com",
+  "name": "wtm-2018",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Santiago M.A. <santiagomartinagra@gmail.com>",
+  "repository": "https://github.com/gdg-asturias/GDGEventTemplates.git",
+  "author": {
+    "name": "GDG Asturias"
+  },
+  "contributors": [
+    {
+      "name": "Aurora Barrero"
+    },
+    {
+      "name": "María Encinar"
+    },
+    {
+      "email": "santiagomartinagra@gmail.com",
+      "name": "Santiago Martín Agra"
+    }
+  ],
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
