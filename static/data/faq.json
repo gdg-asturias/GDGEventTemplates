@@ -1,0 +1,30 @@
+[
+  {
+    "question": "¿Tenéis descuentos de hoteles y transporte?",
+    "answer": "Gracias a <strong>Renfe</strong> y <strong>Alsa</strong>, tenemos descuentos para el tren y el bus. Además hemos conseguido reducciones en las tarifas de varios hoteles de la ciudad. Una vez compréis la entrada, os enviaremos los descuentos. Además de una guía de Gijón/Oviedo para que no os perdáis nada 😄."
+  },
+  {
+    "question": "Factura de la entrada",
+    "answer": "Claro, ¡sin problema! La factura tienes que solicitarla en el momento de la compra y siempre antes de la celebración del evento. Puedes escribirnos a <a href=\"mailto:wtm@gdgasturias.com\">wtm@gdgasturias.com</a>."
+  },
+  {
+    "question": "¿Hay descuentos de estudiantes?",
+    "answer": "Sí, se deberá justificar con matrícula o carnet de estudiante."
+  },
+  {
+    "question": "¿Hay aparcamiento en la zona del evento?",
+    "answer": "Sí, al ser el campus universitario, disponemos de zonas de aparcamiento gratuitas."
+  },
+  {
+    "question": "Parece un evento de chicas, ¿los chicos también podemos ir?",
+    "answer": "¡¡Por supuesto!! WTMAsturias es un evento en el que las ponentes son mujeres, pero abierto a todos :) Ya veis que el equipo organizador es un mix."
+  },
+  {
+    "question": "¿Habrá posibilidades de adaptar el menú para dietas especiales?",
+    "answer": "Sí, haremos todo lo posible para adaptarnos. Escríbenos a <a href=\"mailto:wtm@gdgasturias.com\">wtm@gdgasturias.com</a>."
+  },
+  {
+    "question": "¿Si me quedo más días, dónde encuentro información turística?",
+    "answer": "Con la entrada os enviaremos un pequeño documento con algunas propuestas."
+  }
+]

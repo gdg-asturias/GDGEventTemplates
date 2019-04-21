@@ -1,0 +1,95 @@
+<template>
+  <div class="row speaker-item" :id="speaker.id">
+    <div class="col-xs-12 col-sm-4 speaker-item__social">
+      <img :src="speaker.picture" class="speaker-item__picture">
+      <div class="speakers-item__rrss">
+        <a v-if="speaker.social.twitter" class="section__rrss-item" :href="speaker.social.twitter">
+          <span class="icon-twitter"></span>
+        </a>
+        <a v-if="speaker.social.linkedin" class="section__rrss-item" :href="speaker.social.linkedin">
+          <span class="icon-linkedin"></span>
+        </a>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-8">
+      <h3>
+        <span class="speaker-item__name">
+          {{speaker.name}}
+        </span>
+        <span class="speaker-item__name--surname">
+          {{speaker.surname}}
+        </span>
+      </h3>
+      <h4>
+        {{speaker.work}}
+      </h4>
+      <p class="section__paragraph" v-html="speaker.about">
+      </p>
+      <p v-if="speaker.speaking_in">
+        <span class="speaker-item__speaking-in">
+          Speaking in:
+        </span>
+        <a :href="speaker.speaking_in.href" v-scroll-to="speaker.speaking_in.href">
+          {{speaker.speaking_in.title}}
+        </a>
+      </p>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'SpeakersItem',
+  props: ['speaker']
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped lang="scss">
+@import "../styles/_vars.scss";
+.speaker-item {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-bottom: #4385F5 1px solid;
+  &:last-child {
+      border: none;
+    }
+}
+
+.speaker-item__social{
+  text-align: center;
+}
+
+.speakers-item__rrss{
+  text-align: center;
+}
+
+.speaker-item__name {
+  font-size: 30px;
+  text-transform: uppercase;
+  line-height: 1em;
+  margin: 0 0 30px 0;
+  @media (min-width: map-get($grid-breakpoints, sm)){
+    font-size: 40px;
+  }
+}
+
+.speaker-item__name--surname {
+  @extend .speaker-item__name;
+  color: #4385F5;
+}
+
+.speaker-item__picture {
+  border-radius: 50%;
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.speaker-item__speaking-in {
+  color: #002045;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+</style>
