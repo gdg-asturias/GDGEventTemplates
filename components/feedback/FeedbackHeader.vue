@@ -26,13 +26,6 @@
               src="/img/gdgasturias-new.png"
             >
           </div>
-          <span class="flex items-center mt-4 ml-4 md:ml-0 md:mt-0">
-            <span class="text-wtm-blue-dark mr-2 text-xs md:text-base">by</span>
-            <img
-              class="h-3 md:h-auto"
-              src="/img/google-oscuro.svg"
-            >
-          </span>
         </div>
       </div>
     </header>

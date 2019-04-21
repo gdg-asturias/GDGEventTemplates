@@ -24,8 +24,7 @@
               >
             </div>
             <span class="flex items-center mt-4 lg:mt-0">
-              <span class="text-wtm-blue-dark mr-2">by</span>
-              <img src="img/google-oscuro.svg">
+
             </span>
           </div>
         </div>
