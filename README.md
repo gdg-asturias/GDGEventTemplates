@@ -1,6 +1,4 @@
-# 🎟 wtm.gdgasturias.com
-
-Web utilizada para el WTM Asturias 2018.
+# 🎟 WTM Asturias 2018
 
 [Live](http://wtm.gdgasturias.com/2018)
 
