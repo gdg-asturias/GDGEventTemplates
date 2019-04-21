@@ -27,6 +27,6 @@ If you like them and it makes your GDG live easier, just use them. One easy requ
 | DevFest Asturias 2018          | 1 December 2018 | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/SantiMA10/Event-Keeper/tree/devfest-2018) | VuePress 0.14 |
 | Women Techmakers Asturias 2019 | 6 April 2019     | http://wtm.gdgasturias.com/     | [wtm-2019](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2019)         | NuxtJS 2.6    |
 
-# ⚖️ Licence
+# ⚖️ License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Content on this site is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license</a>.
