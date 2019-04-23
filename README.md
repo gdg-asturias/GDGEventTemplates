@@ -23,9 +23,9 @@ If you like them and it makes your GDG live easier, just use them. One easy requ
 
 | Event                         | Date          | Web                             | Branch                                                                        | Framework     |
 | ------------------------------ | -------------- | ------------------------------- | --------------------------------------------------------------------------- | ------------- |
-| Women Techmakers Asturias 2018 | 14 April 2018    | http://wtm.gdgasturias.com/2018 | [wtm-2018](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2018)         | Vue 2.5       |
-| DevFest Asturias 2018          | 1 December 2018 | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/SantiMA10/Event-Keeper/tree/devfest-2018) | VuePress 0.14 |
-| Women Techmakers Asturias 2019 | 6 April 2019     | http://wtm.gdgasturias.com/     | [wtm-2019](https://github.com/SantiMA10/Event-Keeper/tree/wtm-2019)         | NuxtJS 2.6    |
+| Women Techmakers Asturias 2018 | 14 April 2018    | http://wtm.gdgasturias.com/2018 | [wtm-2018](https://github.com/gdg-asturias/GDGEventTemplates/tree/wtm-2018)         | Vue 2.5       |
+| DevFest Asturias 2018          | 1 December 2018 | http://devfest.gdgasturias.com/ | [devfest-2018](https://github.com/gdg-asturias/GDGEventTemplates/tree/devfest-2018) | VuePress 0.14 |
+| Women Techmakers Asturias 2019 | 6 April 2019     | http://wtm.gdgasturias.com/     | [wtm-2019](https://github.com/gdg-asturias/GDGEventTemplates/tree/wtm-2019)         | NuxtJS 2.6    |
 
 # ⚖️ License
 
