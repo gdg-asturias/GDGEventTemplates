@@ -17,7 +17,7 @@ This is our first public contribution to the general GDG wisdom :-) Let us know 
 
 This repo contains the websites developed by [GDG Asturias](https://www.meetup.com/es-ES/GDG-Asturias) for DevFest and WTM events we've organized since 2018.
 
-# 🥳 Contributing
+# 🤩 Contributing
 
 We're happy to include new templates or any kind of improvements of the existing ones, just make a _pull request_.
 
