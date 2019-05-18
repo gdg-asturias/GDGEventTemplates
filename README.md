@@ -9,6 +9,10 @@
   <a href="https://instagram.com/gdgasturias"><img src="https://img.shields.io/badge/instagram-link-brown.svg"/></a>
 </p>
 
+Hello from GDG Asturias team: [Santi Martín](https://github.com/SantiMA10), [Aurora Barrero](https://github.com/aurorabarrero) y [María Encinar](https://github.com/encinar). 
+
+This is our first public contribution to the general GDG wisdom :-) Let us know if you have any questions: info@gdgasturias.com
+
 # 🎟 GDG event web templates
 
 This repo contains the websites developed by [GDG Asturias](https://www.meetup.com/es-ES/GDG-Asturias) for DevFest and WTM events we've organized since 2018.
